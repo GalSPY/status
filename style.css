@@ -1,0 +1,24 @@
+*{padding: 0; margin: 0; box-sizing: border-box;}
+
+
+div{
+    background-color: transparent;
+    padding: 4px;
+    margin: 8px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ttl{
+    margin-top: 50px;
+}
+
+.cur-z{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    background-color: rgba(0,0,0,0.1);
+    border-radius: 8px;
+    padding: 10px;
+    margin: 0 auto;
+    width: fit-content;
+}
